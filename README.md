@@ -71,8 +71,8 @@ Try accessing the `return_value` identifier without prepending `$`.
 **What happens and why?**
 
 <details>
-    <summary>Da steht nur return_value. Die Shell erkennt ohne das $ keine Variable, sondern nur den Text an sich. In dem Fall return_value.</summary>
-    ......
+    <summary>Your Answer</summary>
+    Da steht nur return_value. Die Shell erkennt ohne das $ Zeichen keine Variable, sondern nur den Text an sich. In dem Fall return_value.
 </details>
 
 ### Task 3: Function-Identifiers
