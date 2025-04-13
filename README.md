@@ -71,7 +71,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 **What happens and why?**
 
 <details>
-    <summary>You Answer</summary>
+    <summary>Da steht nur return_value. Die Shell erkennt ohne das $ keine Variable, sondern nur den Text an sich. In dem Fall return_value.</summary>
     ......
 </details>
 
