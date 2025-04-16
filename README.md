@@ -350,7 +350,8 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
     <summary>Your Answer</summary>
-    ....
+    /home/besir/functions
+    
 </details>
 
 All filenames start with a `/`. 
