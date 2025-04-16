@@ -264,7 +264,12 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
     <summary>Your Function</summary>
     
 ```bash
-your code
+besir@Besir-Laptop:~$ add_and_double() {
+> result=$(( ($1 + $2) * 2))
+> echo "Result: $result"
+> }
+besir@Besir-Laptop:~$ add_and_double 3 5
+Result: 16
 ```
 
 </details>
