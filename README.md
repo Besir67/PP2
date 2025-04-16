@@ -306,7 +306,7 @@ cat ./function
 
 **What happend?**
 <details>
-    <summary>Your Explaination</summary>
+    <summary>Funktionen nach dem schließen gehen verloren. Mit declare -f kann ich die anzeigen und mit > sie in eine Datei speichern. Mit >> kann ich weitere Funktionen an diese datei anhängen.</summary>
     .....
 
 </details>
