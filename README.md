@@ -374,7 +374,7 @@ cd /
 ```
 **Run `ls` again and insert the content here:**
 <details>
-    <summary>Your Answer</summary>
+    <summary>90 minuten waren hier zu ende</summary>
     ....
 </details>
 
